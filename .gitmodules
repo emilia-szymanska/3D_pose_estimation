@@ -4,6 +4,8 @@
 [submodule "LISST_multiperson_multiview"]
 	path = LISST_multiperson_multiview
 	url = git@github.com:johannesg98/LISST_multiperson_multiview.git
+	branch = main
 [submodule "LEMO"]
 	path = LEMO
 	url = git@github.com:johannesg98/LEMO.git
+	branch = main
