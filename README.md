@@ -1,5 +1,7 @@
 # Capturing Multi-Person Interactions from Videos
 
+[![Watch the video](https://youtu.be/j7S1wKx4u4s/default.jpg)](https://youtu.be/j7S1wKx4u4s)
+
 This project addresses the problem of markerless motion capture of multiple persons in different scenes.
 The goal is to estimate the 3D poses of each person in multi-view videos depicting multiple persons performing various tasks and interacting with each other.
 To solve this problem, we created a pipeline that generates sequences of 3D LISST body parameters that correspond to individual persons.
