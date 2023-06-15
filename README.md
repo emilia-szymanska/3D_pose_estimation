@@ -1,8 +1,8 @@
 # Capturing Multi-Person Interactions from Videos
 
-<!-- [![Watch the video](https://youtu.be/j7S1wKx4u4s/default.jpg)](https://youtu.be/j7S1wKx4u4s) -->
+[![Watch the video](https://img.youtube.com/vi/j7S1wKx4u4s/default.jpg)](https://youtu.be/j7S1wKx4u4s)
 
-{% include youtube.html id="j7S1wKx4u4s" %}
+<!-- {% include youtube.html id="j7S1wKx4u4s" %} -->
 
 This project addresses the problem of markerless motion capture of multiple persons in different scenes.
 The goal is to estimate the 3D poses of each person in multi-view videos depicting multiple persons performing various tasks and interacting with each other.
