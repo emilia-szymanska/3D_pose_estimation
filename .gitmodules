@@ -1,0 +1,9 @@
+[submodule "lisst_mv3dpose"]
+	path = lisst_mv3dpose
+	url = git@github.com:GemCat/lisst_mv3dpose.git
+[submodule "LISST_multiperson_multiview"]
+	path = LISST_multiperson_multiview
+	url = git@github.com:johannesg98/LISST_multiperson_multiview.git
+[submodule "LEMO"]
+	path = LEMO
+	url = git@github.com:johannesg98/LEMO.git
